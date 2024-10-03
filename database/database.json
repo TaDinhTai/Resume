@@ -1,0 +1,306 @@
+{
+  "resume": [
+    {
+      "id": "1",
+      "title": "Software Engineer Resume",
+      "resumeId": "RES12345",
+      "userEmail": "john.doe@gmail.com",
+      "userName": "John Doe",
+      "firstName": "John",
+      "lastName": "Doe",
+      "jobTitle": "Software Engineer",
+      "address": "123 Main St, New York, NY",
+      "phone": "123-456-7890",
+      "email": "john.doe@gmail.com",
+      "themeColor": "#3498db",
+      "summery": "<p>A motivated software engineer with 5 years of experience in full-stack development.</p>",
+      "experience": [
+        {
+          "title": "Full-stack Developer",
+          "companyName": "Tech Corp",
+          "city": "New York",
+          "state": "NY",
+          "startDate": "2020-01-01",
+          "endDate": "2023-01-01",
+          "currentlyWorking": true,
+          "workSummery": "Developing and maintaining web applications."
+        },
+        {
+          "title": "Full-stack Developer",
+          "companyName": "Tech Corp",
+          "city": "New York",
+          "state": "NY",
+          "startDate": "2020-01-01",
+          "endDate": "2023-01-01",
+          "currentlyWorking": true,
+          "workSummery": "Developing and maintaining web applications."
+        }
+      ],
+      "education": [
+        {
+          "universityName": "MIT",
+          "startDate": "2015-09-01",
+          "endDate": "2019-05-01",
+          "degree": "Bachelor of Science",
+          "major": "Computer Science",
+          "description": "Graduated with honors."
+        }
+      ],
+      "skills": [
+        {
+          "name": "JavaScript",
+          "rating": 5
+        },
+        {
+          "name": "React",
+          "rating": 4
+        }
+      ],
+      "updatedBy": {
+        "_id": "64b5f15c621c213c848091d2",
+        "email": "admin@company.com"
+      },
+      "createdBy": {
+        "_id": "64b5f15c621c213c848091d2",
+        "email": "admin@company.com"
+      },
+      "deletedBy": null,
+      "createdAt": "2023-08-15T10:00:00Z",
+      "updatedAt": "2023-08-16T10:00:00Z",
+      "country": "Vietnam"
+    },
+    {
+      "id": "2",
+      "title": "Project Manager Resume",
+      "resumeId": "RES67890",
+      "userEmail": "jane.smith@gmail.com",
+      "userName": "Jane Smith",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "jobTitle": "Project Manager",
+      "address": "456 Oak St, Los Angeles, CA",
+      "phone": "987-654-3210",
+      "email": "jane.smith@gmail.com",
+      "themeColor": "#e74c3c",
+      "summery": "Experienced project manager with a proven track record of delivering high-quality projects on time.",
+      "experience": [
+        {
+          "title": "Senior Project Manager",
+          "companyName": "Global Solutions",
+          "city": "Los Angeles",
+          "state": "CA",
+          "startDate": "2017-03-01",
+          "endDate": "2023-01-01",
+          "currentlyWorking": true,
+          "workSummery": "Managing large-scale software projects."
+        }
+      ],
+      "education": [
+        {
+          "universityName": "Harvard University",
+          "startDate": "2010-09-01",
+          "endDate": "2014-05-01",
+          "degree": "Bachelor of Arts",
+          "major": "Business Administration",
+          "description": "Focused on project management and leadership."
+        }
+      ],
+      "skills": [
+        {
+          "name": "Agile Methodology",
+          "rating": 5
+        },
+        {
+          "name": "Leadership",
+          "rating": 5
+        }
+      ],
+      "updatedBy": {
+        "_id": "64b5f15c621c213c848091d3",
+        "email": "admin@company.com"
+      },
+      "createdBy": {
+        "_id": "64b5f15c621c213c848091d3",
+        "email": "admin@company.com"
+      },
+      "deletedBy": null,
+      "createdAt": "2023-08-15T11:00:00Z",
+      "updatedAt": "2023-08-16T11:00:00Z"
+    },
+    {
+      "id": "3",
+      "title": "Marketing Specialist Resume",
+      "resumeId": "RES54321",
+      "userEmail": "mark.jones@gmail.com",
+      "userName": "Mark Jones",
+      "firstName": "Mark",
+      "lastName": "Jones",
+      "jobTitle": "Marketing Specialist",
+      "address": "789 Pine St, Chicago, IL",
+      "phone": "123-789-4560",
+      "email": "mark.jones@gmail.com",
+      "themeColor": "#2ecc71",
+      "summery": "Creative marketing specialist with over 3 years of experience in digital and content marketing.",
+      "experience": [
+        {
+          "title": "Digital Marketing Specialist",
+          "companyName": "Marketing Pro",
+          "city": "Chicago",
+          "state": "IL",
+          "startDate": "2021-02-01",
+          "endDate": null,
+          "currentlyWorking": true,
+          "workSummery": "Leading digital marketing campaigns."
+        }
+      ],
+      "education": [
+        {
+          "universityName": "University of Chicago",
+          "startDate": "2017-09-01",
+          "endDate": "2021-05-01",
+          "degree": "Bachelor of Science",
+          "major": "Marketing",
+          "description": "Graduated with honors in Marketing."
+        }
+      ],
+      "skills": [
+        {
+          "name": "SEO",
+          "rating": 4
+        },
+        {
+          "name": "Google Analytics",
+          "rating": 4
+        }
+      ],
+      "updatedBy": {
+        "_id": "64b5f15c621c213c848091d4",
+        "email": "admin@company.com"
+      },
+      "createdBy": {
+        "_id": "64b5f15c621c213c848091d4",
+        "email": "admin@company.com"
+      },
+      "deletedBy": null,
+      "createdAt": "2023-08-15T12:00:00Z",
+      "updatedAt": "2023-08-16T12:00:00Z"
+    },
+    {
+      "id": "4",
+      "title": "Data Scientist Resume",
+      "resumeId": "RES24680",
+      "userEmail": "emily.clark@gmail.com",
+      "userName": "Emily Clark",
+      "firstName": "Emily",
+      "lastName": "Clark",
+      "jobTitle": "Data Scientist",
+      "address": "987 Maple St, Boston, MA",
+      "phone": "321-654-0987",
+      "email": "emily.clark@gmail.com",
+      "themeColor": "#9b59b6",
+      "summery": "Data scientist with a passion for machine learning and big data analysis.",
+      "experience": [
+        {
+          "title": "Lead Data Scientist",
+          "companyName": "DataX Solutions",
+          "city": "Boston",
+          "state": "MA",
+          "startDate": "2019-06-01",
+          "endDate": null,
+          "currentlyWorking": true,
+          "workSummery": "Leading data science projects and building machine learning models."
+        }
+      ],
+      "education": [
+        {
+          "universityName": "Stanford University",
+          "startDate": "2014-09-01",
+          "endDate": "2018-05-01",
+          "degree": "Bachelor of Science",
+          "major": "Data Science",
+          "description": "Focused on big data and AI."
+        }
+      ],
+      "skills": [
+        {
+          "name": "Python",
+          "rating": 5
+        },
+        {
+          "name": "Machine Learning",
+          "rating": 5
+        }
+      ],
+      "updatedBy": {
+        "_id": "64b5f15c621c213c848091d5",
+        "email": "admin@company.com"
+      },
+      "createdBy": {
+        "_id": "64b5f15c621c213c848091d5",
+        "email": "admin@company.com"
+      },
+      "deletedBy": null,
+      "createdAt": "2023-08-15T13:00:00Z",
+      "updatedAt": "2023-08-16T13:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "Graphic Designer Resume",
+      "resumeId": "RES13579",
+      "userEmail": "sarah.white@gmail.com",
+      "userName": "Sarah White",
+      "firstName": "Sarah",
+      "lastName": "White",
+      "jobTitle": "Graphic Designer",
+      "address": "654 Cedar St, San Francisco, CA",
+      "phone": "456-789-1230",
+      "email": "sarah.white@gmail.com",
+      "themeColor": "#f39c12",
+      "summery": "Creative and detail-oriented graphic designer with 4 years of experience in branding and web design.",
+      "experience": [
+        {
+          "title": "Senior Graphic Designer",
+          "companyName": "Creative Minds",
+          "city": "San Francisco",
+          "state": "CA",
+          "startDate": "2018-05-01",
+          "endDate": null,
+          "currentlyWorking": true,
+          "workSummery": "Designing marketing materials and leading the design team."
+        }
+      ],
+      "education": [
+        {
+          "universityName": "Art Institute of California",
+          "startDate": "2013-09-01",
+          "endDate": "2017-05-01",
+          "degree": "Bachelor of Fine Arts",
+          "major": "Graphic Design",
+          "description": "Specialized in web design and branding."
+        }
+      ],
+      "skills": [
+        {
+          "name": "Adobe Photoshop",
+          "rating": 5
+        },
+        {
+          "name": "Illustrator",
+          "rating": 4
+        }
+      ],
+      "updatedBy": {
+        "_id": "64b5f15c621c213c848091d6",
+        "email": "admin@company.com"
+      },
+      "createdBy": {
+        "_id": "64b5f15c621c213c848091d6",
+        "email": "admin@company.com"
+      },
+      "deletedBy": null,
+      "createdAt": "2023-08-15T14:00:00Z",
+      "updatedAt": "2023-08-16T14:00:00Z"
+    }
+  ],
+  "job": []
+}
